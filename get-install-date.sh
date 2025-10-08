@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# install-date.sh — Estimate Linux install date across Arch/Debian/Ubuntu/Mint/Fedora/etc.
+# get-install-date.sh — Estimate Linux install date across Arch/Debian/Ubuntu/Mint/Fedora/etc.
 
 set -euo pipefail
 
